@@ -1,0 +1,8 @@
+{
+  "name": "shinobi-siege",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build.mjs"
+  }
+}
